@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Automationtest">
+<test name="smoketest">
+<packages>
+<package name="serverprojectravi"/>
+</packages>
+</test>
+</suite>

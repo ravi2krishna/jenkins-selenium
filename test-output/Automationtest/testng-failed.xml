@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Automationtest]">
+  <test name="smoketest(failed)">
+    <classes>
+      <class name="serverprojectravi.emprtytest">
+        <methods>
+          <include name="oneemptytest"/>
+        </methods>
+      </class> <!-- serverprojectravi.emprtytest -->
+    </classes>
+  </test> <!-- smoketest(failed) -->
+</suite> <!-- Failed suite [Automationtest] -->
